@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="_0">0</string>
+    <string name="team_a">Team A</string>
+    <string name="a_3_points">+3 points</string>
+    <string name="a_2_points">+2 points</string>
+    <string name="a_free_throw">Free Throw</string>
+    <string name="team_b">Team B</string>
+    <string name="b_3_points">+3 points</string>
+    <string name="b_2_points">+2 points</string>
+    <string name="b_free_throw">Free Throw</string>
+    <string name="reset">Reset</string>
+    <string name="basket_hounds">Basket Hounds</string>
+    <string name="soup_a_stars">Soup-a-Stars</string>
+    <string name="miami">Miami</string>
+    <string name="soup_A_stars">Soup-A-Stars</string>
+</resources>
